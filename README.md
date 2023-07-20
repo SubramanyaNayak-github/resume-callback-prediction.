@@ -19,11 +19,11 @@ We experimented with several popular machine learning algorithms for the predict
 
 - Random Forest<br>
 - Decision Tree<br>
-AdaBoost<br>
-Naive Bayes<br>
-k-Nearest Neighbors (KNN)<br>
-Logistic Regression<br>
-XGBoost<br>
+- AdaBoost<br>
+- Naive Bayes<br>
+- k-Nearest Neighbors (KNN)<br>
+- Logistic Regression<br>
+- XGBoost<br>
 
 ## Model Evaluation
 The performance of each model was evaluated using various metrics, such as accuracy, precision, recall, and F1-score. We used cross-validation techniques to ensure reliable and unbiased evaluation.
