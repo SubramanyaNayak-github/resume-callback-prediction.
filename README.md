@@ -17,8 +17,8 @@ The main objective of this project is to build a resume callback prediction mode
 
 We experimented with several popular machine learning algorithms for the prediction task, including:
 
--Random Forest<br>
--Decision Tree<br>
+- Random Forest<br>
+- Decision Tree<br>
 AdaBoost<br>
 Naive Bayes<br>
 k-Nearest Neighbors (KNN)<br>
