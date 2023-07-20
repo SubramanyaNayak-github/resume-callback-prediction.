@@ -17,10 +17,20 @@ The main objective of this project is to build a resume callback prediction mode
 
 We experimented with several popular machine learning algorithms for the prediction task, including:
 
-Random Forest
-Decision Tree
-AdaBoost
-Naive Bayes
-k-Nearest Neighbors (KNN)
-Logistic Regression
-XGBoost
+-Random Forest<br>
+-Decision Tree<br>
+AdaBoost<br>
+Naive Bayes<br>
+k-Nearest Neighbors (KNN)<br>
+Logistic Regression<br>
+XGBoost<br>
+
+## Model Evaluation
+The performance of each model was evaluated using various metrics, such as accuracy, precision, recall, and F1-score. We used cross-validation techniques to ensure reliable and unbiased evaluation.
+
+## Results and Conclusion
+The final model achieved impressive accuracy and recall in predicting which candidates are likely to receive callbacks. By integrating this automated resume screening process into their hiring workflow, companies can significantly reduce the time and effort involved in manually reviewing each CV.
+
+The implementation of machine learning algorithms for resume screening presents a valuable solution for optimizing talent acquisition and streamlining the hiring process in today's competitive job market.
+
+
